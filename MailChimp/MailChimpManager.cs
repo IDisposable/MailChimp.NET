@@ -8,6 +8,7 @@ using MailChimp.Helper;
 using MailChimp.Lists;
 using MailChimp.Templates;
 using MailChimp.Users;
+using ServiceStack;
 using ServiceStack.Text;
 using MailChimp.Reports;
 
